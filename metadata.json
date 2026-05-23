@@ -1,0 +1,6 @@
+{
+  "name": "Duct Master Draw",
+  "description": "Professional HVAC ducting layout, fabrication drawings, template marking tools, and square meter sheet metal calculators for workshop installers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
